@@ -56,6 +56,8 @@ The written form of the number '1985' is: one thousand nine hundred eighty five
 ## 🛠️ How to Run
 
 ```bash
-python numbers_to_words.py
+python3 numbers_to_words.py
 ```
+
+📌 You can also check out my [personal portfolio](https://ozco.studio) for more projects and experiments.
 
